@@ -28,4 +28,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: jef350/langlopendetaak-cloud:latest
+        tags: jef350/langlopendetaak-cloud:latest "eer"
